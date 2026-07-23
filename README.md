@@ -37,15 +37,15 @@ I enjoy solving real-world problems through technology while continuously learni
 
 # ⚡ Quick Facts
 
-| 🚀 | |
-|:---|:---|
-| 🎓 Education | B.Sc. Computer Science (AI, ML & VR) |
-| 💻 Focus | Backend & Full Stack Development |
-| 🌱 Currently Learning | NestJS, System Design, AI Engineering |
-| 🤖 Interested In | AI, SaaS, Cloud Computing |
-| 🛠 Favorite Stack | MERN + MySQL |
-| 💡 Passion | Building Scalable Products |
-| 🎯 Long-Term Goal | Build a Billion-Dollar Technology Company |
+| 🚀                    |                                           |
+| :-------------------- | :---------------------------------------- |
+| 🎓 Education          | B.Sc. Computer Science (AI, ML & VR)      |
+| 💻 Focus              | Backend & Full Stack Development          |
+| 🌱 Currently Learning | NestJS, System Design, AI Engineering     |
+| 🤖 Interested In      | AI, SaaS, Cloud Computing                 |
+| 🛠 Favorite Stack     | MERN + MySQL                              |
+| 💡 Passion            | Building Scalable Products                |
+| 🎯 Long-Term Goal     | Build a Billion-Dollar Technology Company |
 
 ---
 
@@ -212,13 +212,11 @@ I enjoy solving real-world problems through technology while continuously learni
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
-> **Enable the GitHub Snake Action before using this image.**
-
-```md
-![Snake animation](https://raw.githubusercontent.com/yashodipdeore2006/yashodipdeore2006/output/github-contribution-grid-snake-dark.svg)
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yashodipdeore2006/yashodipdeore2006/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
 
