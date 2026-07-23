@@ -213,13 +213,11 @@ I enjoy solving real-world problems through technology while continuously learni
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
-> **Enable the GitHub Snake Action before using this image.**
-
-```md
-![Snake animation](https://raw.githubusercontent.com/yashodipdeore/yashodipdeore/output/github-contribution-grid-snake-dark.svg)
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yashodipdeore/yashodipdeore/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
 
