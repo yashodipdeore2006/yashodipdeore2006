@@ -76,6 +76,10 @@ I enjoy solving real-world problems through technology while continuously learni
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashodipdeore20062006@gmail.com)
 
+<a href="https://wa.me/+91 9322196605">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
 <!-- Add these after creating profiles -->
 
 <!--
