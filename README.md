@@ -1,6 +1,11 @@
 <!-- ========================= HEADER ========================= -->
 
-<h1 align="center">Hi 👋, I'm Yashodip Deore</h1>
+<!-- <h1 align="center">Hi 👋, I'm Yashodip Deore</h1> -->
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,12,20,24,30&text=Yashodip%20Deore&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=45"/>
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Full+Stack+Developer;Node.js+%7C+Express.js+%7C+NestJS;MERN+Stack+Developer;AI+Enthusiast;Building+Scalable+Applications;Future+Tech+Entrepreneur" />
