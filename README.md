@@ -27,6 +27,7 @@ Hi, I'm **Yashodip Deore**.
 
 I enjoy solving real-world problems through technology while continuously learning modern software engineering, scalable architectures, and emerging AI technologies.
 
+<!--
 ### 🚀 Currently Working On
 
 - 🔥 Backend Development using **Node.js, Express.js & NestJS**
@@ -39,6 +40,7 @@ I enjoy solving real-world problems through technology while continuously learni
 > **Mission:** Build globally impactful technology products that solve real-world problems.
 
 ---
+-->
 
 # ⚡ Quick Facts
 
@@ -54,6 +56,7 @@ I enjoy solving real-world problems through technology while continuously learni
 
 ---
 
+<!--
 # 📊 Current Focus
 
 ```text
@@ -76,6 +79,7 @@ I enjoy solving real-world problems through technology while continuously learni
 ```
 
 ---
+-->
 
 # 🌐 Connect With Me
 
@@ -181,6 +185,8 @@ I enjoy solving real-world problems through technology while continuously learni
 
 ---
 
+<!--
+
 # 🏆 GitHub Trophies
 
 <p align="center">
@@ -196,7 +202,10 @@ I enjoy solving real-world problems through technology while continuously learni
 <img src="https://github-contributor-stats.vercel.app/api?username=yashodipdeore2006&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 
 ---
+-->
 
+
+<!--
 # 💭 Developer Philosophy
 
 > **"Build products that solve real problems, write clean and scalable code, keep learning every day, and create technology that impacts millions."**
@@ -220,6 +229,7 @@ I enjoy solving real-world problems through technology while continuously learni
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+-->
 
 ## 🐍 Contribution Snake
 
