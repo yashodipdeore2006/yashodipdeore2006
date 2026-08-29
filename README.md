@@ -50,10 +50,13 @@ I enjoy solving real-world problems through technology while continuously learni
 | 🎓 Education          | BCA, MCA*                                 |
 | 💻 Focus              | Backend & Full Stack Development          |
 | 🌱 Currently Learning | AI Engineering                            |
+
+<!--
 | 🤖 Interested In      | AI, SaaS,                                 |
 | 🛠 Favorite Stack      | MERN + MySQL                               |
 | 💡 Passion            | Building Scalable Products                |
 | 🎯 Long-Term Goal     | Build a Billion-Dollar Technology Company |
+-->
 
 ---
 
