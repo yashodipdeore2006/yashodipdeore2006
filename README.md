@@ -13,7 +13,7 @@
 
 <p align="center">
   <!-- <img src="https://komarev.com/ghpvc/?username=yashodipdeore2006&label=Profile%20Views&color=0e75b6&style=for-the-badge"/> -->
-  <img src="https://komarev.com/ghpvc/?username=yashodipdeore2006&label=Profile%20Views&color=0e75b6&style=for-the-badge&base=1000"/>
+  <img src="https://komarev.com/ghpvc/?username=yashodipdeore2006&label=Profile%20Views&color=0e75b6&style=for-the-badge&base=5000"/>
   <img src="https://img.shields.io/github/followers/yashodipdeore2006?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/github/stars/yashodipdeore2006?style=for-the-badge&logo=github"/>
 </p>
